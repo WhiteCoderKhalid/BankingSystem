@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716904824 source:c:\users\hp\onedrive\desktop\c\bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
